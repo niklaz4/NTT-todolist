@@ -1,27 +1,27 @@
-# Todolist
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+<h1>Projeto: Todo List em Angular para o NTT Data Academy</h1>
 
-## Development server
+<hr>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<h2>Introdução:</h2> </p>
+O projeto consiste em criar uma aplicação web de lista de tarefas (Todo List) utilizando o framework Angular. Esta aplicação permitirá aos usuários criar, editar, excluir e marcar como concluídas tarefas em uma lista.</p><br>
 
-## Code scaffolding
+<h2>Implementação:<h2></h2></p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Instalação do Angular CLI (Command Line Interface) para facilitar a criação de novos projetos Angular.
+- Criação de um novo projeto Angular usando o Angular CLI.
+- Estruturação do projeto com componentes, serviços e módulos.
 
-## Build
+<h2>Desenvolvimento da funcionalidade Todo List:</h2></p>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Criação de um componente para exibir a lista de tarefas.
+- Integração de formulários para adicionar e deletar tarefas.
+- Implementação de métodos para marcar tarefas como concluídas e excluir tarefas da lista.
 
-## Running unit tests
+<h2>Estilização e Layout:</h2> </p>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Utilização de CSS e/ou frameworks como Bootstrap para estilizar a aplicação e torná-la visualmente atraente.
 
-## Running end-to-end tests
+<h2>Deploy:</h2> </p>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Vercel deploy.
